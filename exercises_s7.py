@@ -1,3 +1,5 @@
+# Exercises for Session 7
+
 # Q1 - What does the code print
 hi = "Hello"
 who = "World"
